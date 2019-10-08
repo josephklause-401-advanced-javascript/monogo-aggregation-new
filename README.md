@@ -1,13 +1,13 @@
 # LAB - Class 16
-
+ 
 ## Mongo Aggregation
 
 ### Author: Joe Klause
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
+* [submission PR](https://github.com/josephklause-401-advanced-javascript/monogo-aggregation-new/pull/1)
+* [travis](https://travis-ci.com/josephklause-401-advanced-javascript/monogo-aggregation-new/)
+* [back-end](https://mongo-aggregation-2019.herokuapp.com/)
 
 
 #### Running the app
@@ -20,7 +20,7 @@ Commands:
     "test:verbose": "npm run test -- --verbose",
     "start": "node server.js",
     "start:watch": "nodemon server.js"
-
+  
 #### Tests
 * Jest Tests: `npm test`
 * Lint Tests: `npm run lint`
